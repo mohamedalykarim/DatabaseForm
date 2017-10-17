@@ -4,8 +4,6 @@
     <title>Form Name</title>
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 </head>
-
-
 <style>
     body{
         Background: #eceef4;
